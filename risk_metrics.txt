@@ -1,0 +1,2 @@
+95% Historical VaR: -2.03%
+95% Expected Shortfall: -2.85%
