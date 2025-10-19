@@ -1,0 +1,11 @@
+Risk Contribution Table:
+Ticker  Weight  Risk Contribution (%)
+  AAPL     0.4              34.044912
+  MSFT     0.4              32.324673
+  NVDA     0.2              33.630414
+
+VaR and ES Summary:
+     Method  VaR (95%)  ES (95%)
+ Historical  -0.021703 -0.031400
+ Parametric  -0.023310 -0.029675
+Monte Carlo  -0.023061 -0.029781
